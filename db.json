@@ -1,0 +1,58 @@
+{
+    "notices": [
+        {
+            "id": 1,
+            "title": "Roberta Campos conta sobre parceria com Zélia Duncan em nova música",
+            "date": "2022/11/11 12:00",
+            "description": "A cantora, compositora e produtora Roberta Campos (44) lança nesta quinta-feira, 11, seu novo single “Depois de Te Encontrar” e abre um novo ciclo na sua carreira musical. Após uma série de parcerias lançadas ainda neste ano com Gabriel Elias (28), Liah Soares (42) e Sérgio Britto (63), a mineira se mostra novamente como uma artista independente, após mais de uma década na gravadora Deck, na qual produziu os álbuns “Varrendo a Lua”  (2010) e “O Amor Liberta”  (2021).",
+            "author": "Laís Seguin",
+            "image" : "https://caras.uol.com.br/media/_versions/2022-novembro/roberta-campos-lanca-depois-de-te-encontrar-musica-escrita-em-parceria-com-zelia-duncan_widelg.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Flora morre em A Favorita? Saiba final da novela",
+            "date": "2022/11/11 11:49",
+            "description": "No último capítulo de A Favorita, Flora (Patricia Pillar) surge na lua de mel de Donatela (Claudia Raia) e Zé Bob (Carmo Dalla Vecchia) disposta a acabar com a harmonia do casal.",
+            "author": "Walter Felix",
+            "image" : "https://imagem.natelinha.uol.com.br/original/flora-morre-em-a-favorita_5250.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "“Born Again”: Rihanna libera segunda faixa para a trilha de “Pantera Negra 2”",
+            "date": "2022/11/11 13:00",
+            "description": "E junto com a estreia de ”Pantera Negra: Wakanda Para Sempre” no EUA – no Brasil o filme saiu ontem – nesta sexta-feira (11), Rihanna lançou sua nova faixa para a trilha sonora do longa.",
+            "author": "Marmella",
+            "image" : "https://pubimg.band.uol.com.br/files/2d6f1c665d7e3c30eac1.webp"
+        },
+        {
+            "id": 4,
+            "title": "Sabrina Petraglia vai se mudar para Dubai com o marido e os três filhos",
+            "date": "2022/11/11 11:10",
+            "description": "Mãe de três filhos, Gael, de 3 anos, Maya, de 1 ano e 10 meses, e Léo, de 7 meses, frutos do casamento com Ramón Velázquez, a artista contou que o marido, o engenheiro Ramón Velásquez, que trabalha em uma empresa de leasing de aeronaves, recebeu uma proposta para assumir uma vaga em Dubai.",
+            "author": "CARAS Digital",
+            "image" : "https://caras.uol.com.br/media/_versions/2022-novembro/sabrina-petraglia-anuncia-mudanca-com-a-familia-para-dubai_widelg.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Carolina Dieckmann e Mel Maia se reencontram oito anos depois de Joia Rara",
+            "date": "2022/11/11 10:30",
+            "description": "Carolina Dieckmann compartilhou em suas redes sociais uma foto do reencontro que teve com Mel Maia. As duas atrizes participaram da novela Joia Rara, que foi exibida entre 2013 e 2014. Carolina também aproveitou para lembrar alguns momentos que viveram juntas nas gravações da trama.",
+            "author": "Máxima Digital",
+            "image" : "https://maxima.uol.com.br/media/_versions/2022/11/b7ce459d-eadb-4647-bcdc-7cff9bbc0673_widelg.jpeg"
+        },
+        {
+            "id": 6,
+            "title": "Pantera Negra 2: Como a luta entre Talocan e Wakanda se conecta com o mundo real? Djamila Ribeiro explica",
+            "date": "2022/11/11 11:00",
+            "description": "Na sequência de Pantera Negra, Talocan é apresentada como a Atlantis dos quadrinhos, ou seja, a sociedade submersa que vive sob os comandos de Namor, o príncipe que tem conexão com a poderosa divindade conhecida como Kukulkan.",
+            "author": "Izabela Queiroz",
+            "image" : "https://recreio.uol.com.br/media/_versions/marvel/namor_pantera_negra_2_capa_widelg.jpg"
+        }
+    ],
+    "users" : [
+        {
+            "email" : "ingra@mail.com",
+            "password" : "1234"
+        }
+    ]
+}
